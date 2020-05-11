@@ -1,0 +1,8 @@
+[package]
+name = "rusty_chip8"
+version = "0.1.0"
+authors = ["Boris Ermakov-Spektor <b.ermakovspektor@ufl.edu>"]
+edition = "2018"
+
+[dependencies]
+ sdl2 = "0.34"
